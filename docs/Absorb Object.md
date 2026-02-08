@@ -1,0 +1,22 @@
+# Absorb Object
+
+## Properties
+
+-   Min. Power Level: 4
+-   Invocation Time: 1 Major Action
+-   Duration: Permanent
+
+## Description
+
+By restructuring your bodily composition, creating an extra-dimensional
+space, utilizing a cybernetic storage implant, or similar means, you
+absorb an object into your body, leaving it completely hidden from
+others and ready for access at a moment's notice.
+
+## Effect
+
+The object remains in place, completely hidden from the perception of
+others, until the target summons or recalls it (automatically) as a
+minor action. If anything happens to cancel this boon (such as the
+nullify bane), the object is immediately shunted out of the target's
+body as if the object had been withdrawn.

@@ -1,0 +1,20 @@
+# Reckless Attack
+
+**Cost: 3**
+
+## Description
+
+By willingly punishing your own body in the heat of battle, you launch a
+relentless flurry of attacks that physically drains you but devastates
+your foes. A super soldier activating a stim pack and a berserker
+pushing their muscles to the breaking point are examples of this feat in
+action.
+
+## Effect
+
+While you are in a battle trance, on your turn you may choose to inflict
+5 hit points of damage on yourself to make an attack as a minor action.
+Effects that prevent or reduce damage cannot affect this self-inflicted
+damage. You suffer the damage before making your extra attack, so you
+must be able to remain conscious after the damage is dealt in order to
+benefit from your extra attack.
